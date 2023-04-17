@@ -1,2 +1,2 @@
 # Big-Data-Processing
-Creating Spark jobs
+Masters project: Creating Spark jobs for a variety of Big Data
